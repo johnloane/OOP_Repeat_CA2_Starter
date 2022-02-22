@@ -1,0 +1,7 @@
+P,ID123,James Ryan,200,Dublin,50.00
+P,ID125,Alice Brady,130,London,45.70
+C,ID128,Brigid Browne,200,Belfast,150,201
+C,ID120,Seamus Reilly,156,London,142.50,250
+P,ID127,Ruth Wogan,169.20,Dublin,230.80
+C,ID178,Kevin Walshe,150,Dublin,150,100
+C,ID128,Mary Ryan,123,Belfast,56.78,120
